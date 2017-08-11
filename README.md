@@ -35,11 +35,13 @@ Sou um profissional que busca novas metas e novos desafios, procurando sempre so
   Carga horária: 40 horas semanais.<br>
   Atividades: Realização de testes manuais utilizando o Jira como ferramenta de suporte e técnicas de testes de caixa preta nos       dispositivos móveis.
   
-## Referências
-  - CIn/UFPE (Motorola) – Virgínia/Luis Cláudio (81) 3134-5900
-
 ## Informações Complementares
+
   - Curso básico de Inglês no CCAA por um ano e meio, leitura e escrita básicos;
   - Linguagens de programação (Nível Básico): Java, HTML, C, Android, PHP;
   - Banco de dados: MySQL (Intermediário), Postegree SQL e SQL Server (Básicos) ;
   - Ferramentas Pentaho (intermediário): PDI, Workbench, Saiku.
+  
+## Referências
+
+  - CIn/UFPE (Motorola) – Virgínia/Luis Cláudio (81) 3134-5900
